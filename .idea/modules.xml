@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Saveo.iml" filepath="$PROJECT_DIR$/.idea/modules/Saveo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyApiServicesModule/Saveo.MyApiServicesModule.iml" filepath="$PROJECT_DIR$/.idea/modules/MyApiServicesModule/Saveo.MyApiServicesModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Saveo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Saveo.app.iml" />
+    </modules>
+  </component>
+</project>
